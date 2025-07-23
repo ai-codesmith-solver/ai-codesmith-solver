@@ -32,7 +32,6 @@ I'm a passionate developer with a strong foundation in **Python** and **Flask**,
 
 ---
 
-## 🧠 Tech Stack
 
 ## 💻 Tech Stack
 
