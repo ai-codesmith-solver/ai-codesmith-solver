@@ -38,8 +38,11 @@ I'm a passionate developer with a strong foundation in **Python** and **Flask**,
 
 ### 🧰 Languages & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Generative AI](https://img.shields.io/badge/-Generative_AI-ff69b4?style=flat)](#)
+[![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Streamlit](https://img.shields.io/badge/-Streamlit-ff4b4b?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter)
@@ -50,6 +53,7 @@ I'm a passionate developer with a strong foundation in **Python** and **Flask**,
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=matplotlib)
+[![AI/ML](https://img.shields.io/badge/-AI%2FML-blueviolet?style=flat)](#)
 
 ---
 
@@ -73,9 +77,8 @@ I'm a passionate developer with a strong foundation in **Python** and **Flask**,
 
 ## 📊 GitHub Stats
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai-codesmith-solver&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ai-codesmith-solver&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ai-codesmith-solver&theme=radical)
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushghosh605&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushghosh605&layout=compact&theme=radical)
 
 ---
 
