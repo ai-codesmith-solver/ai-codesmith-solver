@@ -43,6 +43,7 @@ I'm a passionate developer with a strong foundation in **Python** and **Flask**,
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Streamlit](https://img.shields.io/badge/-Streamlit-ff4b4b?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter)
@@ -77,9 +78,7 @@ I'm a passionate developer with a strong foundation in **Python** and **Flask**,
 
 ## 📊 GitHub Stats
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushghosh605&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushghosh605&layout=compact&theme=radical)
-
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai-codesmith-solver&show_icons=true&theme=radical)
 ---
 
 > “Keep learning, keep building — the future belongs to those who create it.”
