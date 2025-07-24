@@ -69,7 +69,7 @@ I'm a passionate developer with a strong foundation in **Python** and **Flask**,
 ## 📢 Let's Connect
 
 * 📧 Email:[ayushghosh605@gmail.com](mailto:ayushghosh605@gmail.com)
-* 🔗 LinkedIn:(https://www.linkedin.com/in/ayushghosh11/)
+* 🔗 LinkedIn: https://www.linkedin.com/in/ayushghosh11/
 * 📺 YouTube: Coming Soon;
 * 🌐 Portfolio: *Coming Soon*
 
