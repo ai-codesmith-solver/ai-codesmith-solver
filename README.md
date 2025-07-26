@@ -70,7 +70,7 @@ I'm a passionate developer with a strong foundation in **Python** and **Flask**,
 
 * 📧 Email: [ayushghosh605@gmail.com](mailto:ayushghosh605@gmail.com)
 * 🔗 LinkedIn: https://www.linkedin.com/in/ayushghosh11/
-* 📺 YouTube: Coming Soon;
+* 📺 YouTube: https://youtube.com/@codiumx-1
 * 🌐 Portfolio: *Coming Soon*
 
 ---
